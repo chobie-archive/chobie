@@ -1,0 +1,4 @@
+debian:
+  - lenny32
+script:
+  - "echo 'Hello World'"
