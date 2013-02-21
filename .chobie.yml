@@ -1,5 +1,5 @@
 debian:
-  - lenny32
-  - lenny32
+  - squeeze32
+  - squeeze32
 script:
   - "echo 'Hello World'"
