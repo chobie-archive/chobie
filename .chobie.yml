@@ -1,5 +1,5 @@
 debian:
-  - squeeze32
-  - squeeze32
+  - squeeze64
+  - squeeze64
 script:
   - "echo 'Hello World'"
